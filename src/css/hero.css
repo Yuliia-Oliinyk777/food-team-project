@@ -1,0 +1,15 @@
+.hero {
+    padding-top: 14px;
+    padding-bottom: 69px;
+}
+.hero-title {
+    font-size: 48px;
+    width: 502px;
+    margin-bottom: 28px;
+}
+.hero-text {
+    max-width: 511px;
+    margin-bottom: 40px;
+}
+.hero-btn {
+}
