@@ -1,0 +1,49 @@
+.about {
+    padding-top: 113px;
+    padding-bottom: 124px;
+    background: #ffe550;
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.about-title {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 1.2;
+}
+
+.about-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.about-list {
+    display: flex;
+    gap: 67px;
+    margin-bottom: 32px;
+}
+
+.about-item {
+    width: calc((100% - 67px) / 2);
+}
+
+.about-subtitle {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.about-btn {
+    border: 2px solid #7eb101;
+    border-radius: 30px;
+    width: 106px;
+    height: 40px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 1.5;
+}
